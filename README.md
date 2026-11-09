@@ -1,0 +1,4 @@
+- compute scaled dot-product attention, and explain the role of the scaling and of the causal mask
+- implement multi-head self-attention and a Transformer block, and follow the tensor shapes at each step
+- explain why a pretrained model fine-tunes faster and better than a model trained from scratch
+- read attention maps, and say what they can and cannot tell us
